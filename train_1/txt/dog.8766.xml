@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_1</folder>
+	<filename>dog.8766.jpg</filename>
+	<path>C:\Users\sk_jo\Desktop\train_1\dog.8766.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>72</ymin>
+			<xmax>219</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

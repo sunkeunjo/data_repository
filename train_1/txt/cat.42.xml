@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_1</folder>
+	<filename>cat.42.jpg</filename>
+	<path>C:\Users\sk_jo\Desktop\train_1\cat.42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>237</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>8</ymin>
+			<xmax>200</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
